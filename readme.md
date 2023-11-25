@@ -11,9 +11,6 @@
 
 ## linguagens de programação que estou estudando:
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
-![Lua](https://img.shields.io/badge/Lua-000?style=for-the-badge&logo=lua)
 
 ## status do github:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gionanagomes&theme=transparent&bg_color=BEE0DF&border_color=6AC09D&show_icons=true&icon_color=6AC09D&title_color=08AEA4&text_color=FFF)
