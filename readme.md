@@ -10,7 +10,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 
 ## linguagens de programação que estou estudando:
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ## status do github:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gionanagomes&theme=transparent&bg_color=BEE0DF&border_color=6AC09D&show_icons=true&icon_color=6AC09D&title_color=08AEA4&text_color=FFF)
